@@ -1,8 +1,7 @@
 # Random Quote Generator
 
-This project is built with React.
-
-API used - [Quotable](https://github.com/lukePeavey/quotable).
+- This project is built with React.
+- API used - [Quotable](https://github.com/lukePeavey/quotable)
 
 ## Screenshot
 
