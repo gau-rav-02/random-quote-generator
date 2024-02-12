@@ -2,7 +2,6 @@
 
 - This project is built with React.
 - API used - [Quotable](https://github.com/lukePeavey/quotable)
-- Deployed on - [Netlify](https://random-quote-generator-online.netlify.app/)
 
 ## Screenshot
 
